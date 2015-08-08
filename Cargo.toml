@@ -8,7 +8,7 @@ authors = [
 ]
 
 [dependencies.md_rel]
-git = "https://github.com/TyOverby/md_rel.git"
+git = "https://github.com/delaemon/md_rel.git"
 
 [[bin]]
 name = "markdown_compiler"
